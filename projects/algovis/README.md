@@ -1,9 +1,9 @@
-# Alogrithm Visual and Benchmarks
-**Goal:** Comparing runtime and correctness of [bubble / insertion / merge / quick] sort on [radom integer arrays]. Producing a reproductiable script and a bar chart.
+# Algorithm Visuals and Benchmarks
+**Goal:** Comparing runtime and correctness of [bubble / insertion / merge / quick] sort on [random integer arrays]. Producing a reproduciable script and a bar chart.
 
 **Milestones**
--v0:runnable script; all four scipts passed correctness test; make one barchart 
+-v0:runnable scripts; all four scipts passed correctness test; make one bar chart 
 -v1:average multiple sizes and repetitions; show result and conclusions
--v2:streamlit page to choose input size and plot interactively
+-v2:Streamlit page to choose input size and plot interactively
 
 **How to run**
