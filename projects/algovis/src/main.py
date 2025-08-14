@@ -6,7 +6,7 @@ for i in range(len(arr)-1):
   for j in range(len(arr) - i - 1):
     if arr[j] > arr[j+1]:
       arr[j], arr[j+1] = arr[j + 1], arr[j]
-  return arr
+return arr
       
       
 
@@ -14,11 +14,11 @@ def insertion_sort(a):
 
 def merge_sort(a):
 
-def quick_merge():
+def quick_sort():
 
-if __name__ = "__main__":
+if __name__ == "__main__":
   test_arr = [2, 5, 4, 7, 8, 3, 2]
-  print("original_arry:"，test_arr)
+  print("original_array:"，test_arr)
   sorted_arr = bubble_sort(test_arr)
   print("sorted array:", sorted_arr)
   # 1.primary sequence
